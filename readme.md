@@ -3,7 +3,7 @@
      </p>
      
 <div>
-<a href="https://gadgetpilot.site/" target="_blank" style=" display: inline-block; padding: 12px 24px; background-color: #FF5A5F; color: white; text-decoration: none; font-size: 16px; border-radius: 6px; "> Download CapCut (Desktop) </a>
+<h2><a href="https://gadgetpilot.site/" target="_blank" style=" display: inline-block; padding: 12px 24px; background-color: #FF5A5F; color: white; text-decoration: none; font-size: 16px; border-radius: 6px; "> Download CapCut (Desktop) </a><h2>
 </div>
 
 <h3> ⚡ Popular Uses  </h3> 
@@ -15,3 +15,4 @@
 <li> Meme edits and lyric videos</li>
 
 <li> Product and ad videos </li>
+
